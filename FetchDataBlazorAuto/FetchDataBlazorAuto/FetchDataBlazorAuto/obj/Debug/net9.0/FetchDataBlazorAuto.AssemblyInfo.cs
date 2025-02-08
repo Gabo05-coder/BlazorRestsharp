@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FetchDataBlazorAuto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f603096490a33d8b414ab250625a16e6a148317")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82da27563fe691378c6f3c3b44eef8e7a354486")]
 [assembly: System.Reflection.AssemblyProductAttribute("FetchDataBlazorAuto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FetchDataBlazorAuto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
