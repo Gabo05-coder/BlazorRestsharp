@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "afGZB1tO2+g=",
+  "dgSpecHash": "v4mFO2G+DIQ=",
   "success": true,
   "projectFilePath": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/FetchDataBlazorAuto.Client.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "/Users/alejandrobarranco/.nuget/packages/microsoft.jsinterop.webassembly/9.0.1/microsoft.jsinterop.webassembly.9.0.1.nupkg.sha512",
     "/Users/alejandrobarranco/.nuget/packages/microsoft.net.illink.tasks/9.0.1/microsoft.net.illink.tasks.9.0.1.nupkg.sha512",
     "/Users/alejandrobarranco/.nuget/packages/microsoft.net.sdk.webassembly.pack/9.0.1/microsoft.net.sdk.webassembly.pack.9.0.1.nupkg.sha512",
+    "/Users/alejandrobarranco/.nuget/packages/restsharp/112.1.0/restsharp.112.1.0.nupkg.sha512",
     "/Users/alejandrobarranco/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/9.0.1/microsoft.netcore.app.runtime.mono.browser-wasm.9.0.1.nupkg.sha512"
   ],
   "logs": []

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4thdM1B+Zpk=",
+  "dgSpecHash": "GgfhuGkf2lg=",
   "success": true,
   "projectFilePath": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,8 @@
     "/Users/alejandrobarranco/.nuget/packages/microsoft.extensions.options/9.0.1/microsoft.extensions.options.9.0.1.nupkg.sha512",
     "/Users/alejandrobarranco/.nuget/packages/microsoft.extensions.primitives/9.0.1/microsoft.extensions.primitives.9.0.1.nupkg.sha512",
     "/Users/alejandrobarranco/.nuget/packages/microsoft.jsinterop/9.0.1/microsoft.jsinterop.9.0.1.nupkg.sha512",
-    "/Users/alejandrobarranco/.nuget/packages/microsoft.jsinterop.webassembly/9.0.1/microsoft.jsinterop.webassembly.9.0.1.nupkg.sha512"
+    "/Users/alejandrobarranco/.nuget/packages/microsoft.jsinterop.webassembly/9.0.1/microsoft.jsinterop.webassembly.9.0.1.nupkg.sha512",
+    "/Users/alejandrobarranco/.nuget/packages/restsharp/112.1.0/restsharp.112.1.0.nupkg.sha512"
   ],
   "logs": []
 }

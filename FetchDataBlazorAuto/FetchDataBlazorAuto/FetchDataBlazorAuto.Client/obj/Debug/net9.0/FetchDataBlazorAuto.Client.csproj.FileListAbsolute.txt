@@ -1025,10 +1025,10 @@
 /Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/refint/FetchDataBlazorAuto.Client.dll
 /Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/FetchDataBlazorAuto.Client.pdb
 /Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/ref/FetchDataBlazorAuto.Client.dll
-/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.0hfw7o3coh.pdb
-/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.lsqaqqyv8i.wasm
-/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.0hfw7o3coh.pdb.gz
-/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.lsqaqqyv8i.wasm.gz
-/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-lsqaqqyv8i.gz
-/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-0hfw7o3coh.gz
-/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-xn82kp2mjl.gz
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.52nvcj79vv.pdb
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.yh8ifs6thd.wasm
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.52nvcj79vv.pdb.gz
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.yh8ifs6thd.wasm.gz
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-yh8ifs6thd.gz
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-52nvcj79vv.gz
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-d6282vvpv7.gz
