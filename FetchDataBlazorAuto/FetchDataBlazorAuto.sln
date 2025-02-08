@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchDataBlazorAuto", "FetchDataBlazorAuto\FetchDataBlazorAuto\FetchDataBlazorAuto.csproj", "{8CCE6046-7A89-4EA0-8DFD-22EC20767FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchDataBlazorAuto.Client", "FetchDataBlazorAuto\FetchDataBlazorAuto.Client\FetchDataBlazorAuto.Client.csproj", "{DC3AAE64-69BE-48F2-8CBA-4630CD59CC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCE6046-7A89-4EA0-8DFD-22EC20767FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCE6046-7A89-4EA0-8DFD-22EC20767FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCE6046-7A89-4EA0-8DFD-22EC20767FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCE6046-7A89-4EA0-8DFD-22EC20767FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3AAE64-69BE-48F2-8CBA-4630CD59CC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3AAE64-69BE-48F2-8CBA-4630CD59CC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3AAE64-69BE-48F2-8CBA-4630CD59CC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3AAE64-69BE-48F2-8CBA-4630CD59CC14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
