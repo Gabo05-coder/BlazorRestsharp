@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TiNMHNwMLCFn7qBvSKkngGT/2FDvWsE2VbROwT19+9o=",
+  "Hash": "i7wrOYeIkoe/lBqxz+8IIpl+8H9CNuH0YQ2i+PYO4YY=",
   "Source": "FetchDataBlazorAuto.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "d6282vvpv7",
-      "Integrity": "BQuFDHpGJpBdlMoZZQdHEA8oVYHh+wGUWJ909Jf5yFg=",
+      "Fingerprint": "1tmqybg1vg",
+      "Integrity": "9aNdSPaTR/MCzI3Q/1B+xOHdyJhpA9d81CWp+kKRzBc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "52nvcj79vv",
-      "Integrity": "fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4=",
+      "Fingerprint": "3zpnqgyqne",
+      "Integrity": "Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/FetchDataBlazorAuto.Client.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "yh8ifs6thd",
-      "Integrity": "hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0=",
+      "Fingerprint": "37jgo36kkl",
+      "Integrity": "0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/webcil/FetchDataBlazorAuto.Client.wasm"
@@ -897,6 +897,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/webcil/netstandard.wasm"
+    },
+    {
+      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "SourceId": "FetchDataBlazorAuto.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/RestSharp#[.{fingerprint}]!.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "mc2jab6tr5",
+      "Integrity": "pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/webcil/RestSharp.wasm"
     },
     {
       "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/System.AppContext.wasm",
@@ -4343,7 +4364,7 @@
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/dotnet.runtime.js.map"
     },
     {
-      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-d6282vvpv7.gz",
+      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-1tmqybg1vg.gz",
       "SourceId": "FetchDataBlazorAuto.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/",
@@ -4357,8 +4378,8 @@
       "RelatedAsset": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "roeerbb0d4",
-      "Integrity": "2/hl2Hgp1vZBha/ohH0axBALSNy+Uf+okSNMysdhu1Q=",
+      "Fingerprint": "ksi0m71e4q",
+      "Integrity": "3L6eYx6U6+H1TodnnEmwxOQzNZVkM4PC626bblRbuY4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -4469,12 +4490,12 @@
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/System.Net.WebSockets.Client.wasm"
     },
     {
-      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-52nvcj79vv.gz",
+      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-3zpnqgyqne.gz",
       "SourceId": "FetchDataBlazorAuto.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/FetchDataBlazorAuto.Client#[.{fingerprint=52nvcj79vv}]!.pdb.gz",
+      "RelativePath": "_framework/FetchDataBlazorAuto.Client#[.{fingerprint=3zpnqgyqne}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4483,8 +4504,8 @@
       "RelatedAsset": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hri9s15fbq",
-      "Integrity": "w+gsLJ8QNYm7icAKIDI6e8xmwjz8SqUoNxOJaLQSvgI=",
+      "Fingerprint": "80xpkcdx93",
+      "Integrity": "WMfxVDBY094bAZpyMPHqol9rn5Q5BzZ2ZZ69BCBPKd8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.pdb"
@@ -5223,6 +5244,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/System.ServiceProcess.wasm"
+    },
+    {
+      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/7s9ptsv5j4-mc2jab6tr5.gz",
+      "SourceId": "FetchDataBlazorAuto.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/",
+      "BasePath": "/",
+      "RelativePath": "_framework/RestSharp#[.{fingerprint=mc2jab6tr5}]!.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "co3od430q1",
+      "Integrity": "nBVUEB2PyJdMfptviNQYxpaAH2ewYMFJitz0Z9hO8Pw=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm"
     },
     {
       "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/7tgot6qt85-0w7idgmm8c.gz",
@@ -8585,12 +8627,12 @@
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/System.Resources.Reader.wasm"
     },
     {
-      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-yh8ifs6thd.gz",
+      "Identity": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-37jgo36kkl.gz",
       "SourceId": "FetchDataBlazorAuto.Client",
       "SourceType": "Computed",
       "ContentRoot": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/FetchDataBlazorAuto.Client#[.{fingerprint=yh8ifs6thd}]!.wasm.gz",
+      "RelativePath": "_framework/FetchDataBlazorAuto.Client#[.{fingerprint=37jgo36kkl}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8599,8 +8641,8 @@
       "RelatedAsset": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2e9h70kyun",
-      "Integrity": "No+EgOagQtSz4IOSvUOumgge8tZm9+v4/DdH749Do8I=",
+      "Fingerprint": "nwfy25qc8r",
+      "Integrity": "+WRomO8TQRqewRCRgYt7DBBxOXRkf7mMkwx+eUEG8+E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.wasm"
@@ -8689,7 +8731,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BQuFDHpGJpBdlMoZZQdHEA8oVYHh+wGUWJ909Jf5yFg=\""
+          "Value": "\"9aNdSPaTR/MCzI3Q/1B+xOHdyJhpA9d81CWp+kKRzBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9aNdSPaTR/MCzI3Q/1B+xOHdyJhpA9d81CWp+kKRzBc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-1tmqybg1vg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000080677693"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12394"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3L6eYx6U6+H1TodnnEmwxOQzNZVkM4PC626bblRbuY4=\""
         },
         {
           "Name": "Last-Modified",
@@ -8698,45 +8779,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BQuFDHpGJpBdlMoZZQdHEA8oVYHh+wGUWJ909Jf5yFg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-d6282vvpv7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081063554"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12335"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2/hl2Hgp1vZBha/ohH0axBALSNy+Uf+okSNMysdhu1Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:25:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -8752,19 +8794,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BQuFDHpGJpBdlMoZZQdHEA8oVYHh+wGUWJ909Jf5yFg=\""
+          "Value": "W/\"9aNdSPaTR/MCzI3Q/1B+xOHdyJhpA9d81CWp+kKRzBc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BQuFDHpGJpBdlMoZZQdHEA8oVYHh+wGUWJ909Jf5yFg="
+          "Value": "sha256-9aNdSPaTR/MCzI3Q/1B+xOHdyJhpA9d81CWp+kKRzBc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-d6282vvpv7.gz",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/0nczgzf9ch-1tmqybg1vg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8773,7 +8815,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12335"
+          "Value": "12394"
         },
         {
           "Name": "Content-Type",
@@ -8781,11 +8823,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2/hl2Hgp1vZBha/ohH0axBALSNy+Uf+okSNMysdhu1Q=\""
+          "Value": "\"3L6eYx6U6+H1TodnnEmwxOQzNZVkM4PC626bblRbuY4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:25:42 GMT"
+          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8803,7 +8845,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2/hl2Hgp1vZBha/ohH0axBALSNy+Uf+okSNMysdhu1Q="
+          "Value": "sha256-3L6eYx6U6+H1TodnnEmwxOQzNZVkM4PC626bblRbuY4="
         }
       ]
     },
@@ -10733,305 +10775,7 @@
       ]
     },
     {
-      "Route": "_framework/FetchDataBlazorAuto.Client.52nvcj79vv.pdb",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15676"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "52nvcj79vv"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FetchDataBlazorAuto.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.52nvcj79vv.pdb",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-52nvcj79vv.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000102817191"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9725"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"w+gsLJ8QNYm7icAKIDI6e8xmwjz8SqUoNxOJaLQSvgI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "52nvcj79vv"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FetchDataBlazorAuto.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.52nvcj79vv.pdb.gz",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-52nvcj79vv.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9725"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"w+gsLJ8QNYm7icAKIDI6e8xmwjz8SqUoNxOJaLQSvgI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "52nvcj79vv"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FetchDataBlazorAuto.Client.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-w+gsLJ8QNYm7icAKIDI6e8xmwjz8SqUoNxOJaLQSvgI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.pdb",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15676"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.pdb",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-52nvcj79vv.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000102817191"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9725"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"w+gsLJ8QNYm7icAKIDI6e8xmwjz8SqUoNxOJaLQSvgI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.pdb.gz",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-52nvcj79vv.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9725"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"w+gsLJ8QNYm7icAKIDI6e8xmwjz8SqUoNxOJaLQSvgI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-w+gsLJ8QNYm7icAKIDI6e8xmwjz8SqUoNxOJaLQSvgI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.wasm",
+      "Route": "_framework/FetchDataBlazorAuto.Client.37jgo36kkl.wasm",
       "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11041,7 +10785,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8469"
+          "Value": "10005"
         },
         {
           "Name": "Content-Type",
@@ -11049,148 +10793,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0=\""
+          "Value": "\"0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.wasm",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-yh8ifs6thd.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000264830508"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3775"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"No+EgOagQtSz4IOSvUOumgge8tZm9+v4/DdH749Do8I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.wasm.gz",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-yh8ifs6thd.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3775"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"No+EgOagQtSz4IOSvUOumgge8tZm9+v4/DdH749Do8I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-No+EgOagQtSz4IOSvUOumgge8tZm9+v4/DdH749Do8I="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FetchDataBlazorAuto.Client.yh8ifs6thd.wasm",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8469"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:52 GMT"
+          "Value": "Sun, 09 Feb 2025 01:51:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11200,7 +10807,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yh8ifs6thd"
+          "Value": "37jgo36kkl"
         },
         {
           "Name": "label",
@@ -11208,18 +10815,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0="
+          "Value": "sha256-0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4="
         }
       ]
     },
     {
-      "Route": "_framework/FetchDataBlazorAuto.Client.yh8ifs6thd.wasm",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-yh8ifs6thd.gz",
+      "Route": "_framework/FetchDataBlazorAuto.Client.37jgo36kkl.wasm",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-37jgo36kkl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000264830508"
+          "Quality": "0.000220167327"
         }
       ],
       "ResponseHeaders": [
@@ -11229,15 +10836,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3775"
+          "Value": "4541"
         },
         {
           "Name": "ETag",
-          "Value": "\"No+EgOagQtSz4IOSvUOumgge8tZm9+v4/DdH749Do8I=\""
+          "Value": "\"+WRomO8TQRqewRCRgYt7DBBxOXRkf7mMkwx+eUEG8+E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11257,13 +10864,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0=\""
+          "Value": "W/\"0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yh8ifs6thd"
+          "Value": "37jgo36kkl"
         },
         {
           "Name": "label",
@@ -11271,13 +10878,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0="
+          "Value": "sha256-0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4="
         }
       ]
     },
     {
-      "Route": "_framework/FetchDataBlazorAuto.Client.yh8ifs6thd.wasm.gz",
-      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-yh8ifs6thd.gz",
+      "Route": "_framework/FetchDataBlazorAuto.Client.37jgo36kkl.wasm.gz",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-37jgo36kkl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11286,7 +10893,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3775"
+          "Value": "4541"
         },
         {
           "Name": "Content-Type",
@@ -11294,11 +10901,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"No+EgOagQtSz4IOSvUOumgge8tZm9+v4/DdH749Do8I=\""
+          "Value": "\"+WRomO8TQRqewRCRgYt7DBBxOXRkf7mMkwx+eUEG8+E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Feb 2025 23:26:53 GMT"
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11316,7 +10923,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yh8ifs6thd"
+          "Value": "37jgo36kkl"
         },
         {
           "Name": "label",
@@ -11324,7 +10931,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-No+EgOagQtSz4IOSvUOumgge8tZm9+v4/DdH749Do8I="
+          "Value": "sha256-+WRomO8TQRqewRCRgYt7DBBxOXRkf7mMkwx+eUEG8+E="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.3zpnqgyqne.pdb",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zpnqgyqne"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FetchDataBlazorAuto.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.3zpnqgyqne.pdb",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-3zpnqgyqne.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000089389470"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WMfxVDBY094bAZpyMPHqol9rn5Q5BzZ2ZZ69BCBPKd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zpnqgyqne"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FetchDataBlazorAuto.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.3zpnqgyqne.pdb.gz",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-3zpnqgyqne.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WMfxVDBY094bAZpyMPHqol9rn5Q5BzZ2ZZ69BCBPKd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zpnqgyqne"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FetchDataBlazorAuto.Client.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WMfxVDBY094bAZpyMPHqol9rn5Q5BzZ2ZZ69BCBPKd8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.pdb",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.pdb",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-3zpnqgyqne.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000089389470"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WMfxVDBY094bAZpyMPHqol9rn5Q5BzZ2ZZ69BCBPKd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.pdb.gz",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/1d77oq0l9d-3zpnqgyqne.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WMfxVDBY094bAZpyMPHqol9rn5Q5BzZ2ZZ69BCBPKd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WMfxVDBY094bAZpyMPHqol9rn5Q5BzZ2ZZ69BCBPKd8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.wasm",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/FetchDataBlazorAuto.Client.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.wasm",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-37jgo36kkl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000220167327"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4541"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WRomO8TQRqewRCRgYt7DBBxOXRkf7mMkwx+eUEG8+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FetchDataBlazorAuto.Client.wasm.gz",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/zlycw22py3-37jgo36kkl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WRomO8TQRqewRCRgYt7DBBxOXRkf7mMkwx+eUEG8+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 01:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+WRomO8TQRqewRCRgYt7DBBxOXRkf7mMkwx+eUEG8+E="
         }
       ]
     },
@@ -20861,6 +20903,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-ND8yhtniJdmUw2HJCBELGEV14ncLUO6tdqMrlBCTq+A="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.mc2jab6tr5.wasm",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 22:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc2jab6tr5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RestSharp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.mc2jab6tr5.wasm",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/7s9ptsv5j4-mc2jab6tr5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011959148"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83617"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBVUEB2PyJdMfptviNQYxpaAH2ewYMFJitz0Z9hO8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 22:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc2jab6tr5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RestSharp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.mc2jab6tr5.wasm.gz",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/7s9ptsv5j4-mc2jab6tr5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBVUEB2PyJdMfptviNQYxpaAH2ewYMFJitz0Z9hO8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 22:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc2jab6tr5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/RestSharp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBVUEB2PyJdMfptviNQYxpaAH2ewYMFJitz0Z9hO8Pw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.wasm",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/bin/Debug/net9.0/wwwroot/_framework/RestSharp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 22:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.wasm",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/7s9ptsv5j4-mc2jab6tr5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011959148"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83617"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBVUEB2PyJdMfptviNQYxpaAH2ewYMFJitz0Z9hO8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 22:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/RestSharp.wasm.gz",
+      "AssetFile": "/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto.Client/obj/Debug/net9.0/compressed/7s9ptsv5j4-mc2jab6tr5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83617"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBVUEB2PyJdMfptviNQYxpaAH2ewYMFJitz0Z9hO8Pw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 22:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBVUEB2PyJdMfptviNQYxpaAH2ewYMFJitz0Z9hO8Pw="
         }
       ]
     },

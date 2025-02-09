@@ -2,40 +2,27 @@ namespace FetchDataBlazorAuto.Services;
 
 using RestSharp;
 using System.Threading.Tasks;
+using FetchDataBlazorAuto.Client.Services;
 
-public class PokeService
+
+public class PokeService : IPokeService
 {
-    private readonly RestClient _client;
-
-    public PokeService()
+    public async Task<string> GetPokemonDataAsync(string pokemonName)
     {
-        _client = new RestClient("https://pokeapi.co/api/v2/");
-    }
-
-    public async Task<PokemonData> GetPokemonDataAsync(string pokemonName)
-    {
+        var client = new RestClient("https://pokeapi.co/api/v2/");
         var request = new RestRequest($"pokemon/{pokemonName}", Method.Get);
-        var response = await _client.ExecuteAsync<PokemonData>(request);
+        var response = await client.ExecuteAsync<PokemonResponse>(request);
+
         if (response.IsSuccessful)
         {
-            return response.Data;
+            return response.Data.Name;
         }
-        else
-        {
-            return null;
-        }
+
+        return null;
     }
-}
 
-public class PokemonData
-{
-    public string Name { get; set; }
-    public int Height { get; set; }
-    public int Weight { get; set; }
-    public PokemonSprite sprites { get; set; }
-}
-
-public class PokemonSprite
-{
-    public string Front_Default { get; set; }
+    private class PokemonResponse
+    {
+        public string Name { get; set; }
+    }
 }

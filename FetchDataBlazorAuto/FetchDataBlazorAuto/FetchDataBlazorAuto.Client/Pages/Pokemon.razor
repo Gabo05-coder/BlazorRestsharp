@@ -1,11 +1,16 @@
 @page "/poke-data"
+@using FetchDataBlazorAuto.Client.Services
 @rendermode InteractiveAuto
 
-<PageTitle>Test usando PokeApi</PageTitle>
+@inject IPokeService PokeService
 
-
-<h3>Pokemon</h3>
+<h3>Nombre del Pokémon: @pokemonName</h3>
 
 @code {
-    
+    private string pokemonName;
+
+    protected override async Task OnInitializedAsync()
+    {
+        pokemonName = await PokeService.GetPokemonDataAsync("lucario");
+    }
 }

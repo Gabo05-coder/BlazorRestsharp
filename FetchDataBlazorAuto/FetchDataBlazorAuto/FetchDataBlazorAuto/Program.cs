@@ -1,4 +1,5 @@
 using FetchDataBlazorAuto.Client.Pages;
+using FetchDataBlazorAuto.Client.Services;
 using FetchDataBlazorAuto.Components;
 using FetchDataBlazorAuto.Services;
 
@@ -8,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
-builder.Services.AddSingleton<PokeService>();
+builder.Services.AddScoped<IPokeService, PokeService>();
 
 
 var app = builder.Build();

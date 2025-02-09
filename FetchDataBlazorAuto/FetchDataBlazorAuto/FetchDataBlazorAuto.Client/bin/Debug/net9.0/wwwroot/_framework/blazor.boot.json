@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FetchDataBlazorAuto.Client",
   "resources": {
-    "hash": "sha256-w9uc53bCyICMRipmHwtZh8aipN8ybfSYdkg77ctr7bU=",
+    "hash": "sha256-7V4ULLMi8NNok/WssBNNSThpzePpYnOr7C3DeVHHrsA=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -25,6 +25,7 @@
       "Microsoft.Extensions.Primitives.3pkwbmnqmy.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.gkumi7kxvo.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.wzrhx8t8bu.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
+      "RestSharp.mc2jab6tr5.wasm": "RestSharp.wasm",
       "Microsoft.CSharp.0krj4ve566.wasm": "Microsoft.CSharp.wasm",
       "Microsoft.VisualBasic.Core.bcw8auwqwc.wasm": "Microsoft.VisualBasic.Core.wasm",
       "Microsoft.VisualBasic.ezua2clavb.wasm": "Microsoft.VisualBasic.wasm",
@@ -201,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "FetchDataBlazorAuto.Client.yh8ifs6thd.wasm": "FetchDataBlazorAuto.Client.wasm",
-      "FetchDataBlazorAuto.Client.52nvcj79vv.pdb": "FetchDataBlazorAuto.Client.pdb"
+      "FetchDataBlazorAuto.Client.37jgo36kkl.wasm": "FetchDataBlazorAuto.Client.wasm",
+      "FetchDataBlazorAuto.Client.3zpnqgyqne.pdb": "FetchDataBlazorAuto.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -245,6 +246,7 @@
       "Microsoft.Extensions.Primitives.3pkwbmnqmy.wasm": "sha256-OdxJw7jdILDZ3gOpGiCsOP1rr13RNw5EjKRvXzmr5Lg=",
       "Microsoft.JSInterop.gkumi7kxvo.wasm": "sha256-wG2lM2idoDLOwqFHD84hv6SbaH0Yt59g1BsijrC8V1U=",
       "Microsoft.JSInterop.WebAssembly.wzrhx8t8bu.wasm": "sha256-/Fh5R9UI8OZOGuj4Pz4sd8vLYjZQVqxDj8gWWqd8kA0=",
+      "RestSharp.mc2jab6tr5.wasm": "sha256-pohpjX1jShYP0XV8t357b31/oIdKbwZU/kTEBSz6eY0=",
       "Microsoft.CSharp.0krj4ve566.wasm": "sha256-QJKG5agfskYhNg4CWMzF8EqwsNALoPtT7h5pO9k6aHk=",
       "Microsoft.VisualBasic.Core.bcw8auwqwc.wasm": "sha256-Raj1ha4M/EXL7zvyW9Evn28B9GxWHE0gaLR/NXPSrdk=",
       "Microsoft.VisualBasic.ezua2clavb.wasm": "sha256-Wn1A97sEio88/HfvTRdDM1pgRek6RfaNgVkwzSIvIAw=",
@@ -412,10 +414,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "FetchDataBlazorAuto.Client.yh8ifs6thd.wasm": "sha256-hvrDT83FLKFcbHVKdyGfr2XMasVyWZGwTT+ujysIRh0="
+      "FetchDataBlazorAuto.Client.37jgo36kkl.wasm": "sha256-0dZ9zCyJYUDytYbSFEbixeYUATP+0FwlmIVQFullbo4="
     },
     "pdb": {
-      "FetchDataBlazorAuto.Client.52nvcj79vv.pdb": "sha256-fe5I/0qjzk0loTW1aXQ+GY6UfOeilBDH+orpw68gaM4="
+      "FetchDataBlazorAuto.Client.3zpnqgyqne.pdb": "sha256-Px3n/SYrH0UIZAGLzEGMbajbTa5Ppyl5iAUP6Cs9j9Q="
     }
   },
   "cacheBootResources": true,

@@ -98,3 +98,4 @@
 /Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto/obj/Debug/net9.0/FetchDataBlazorAuto.pdb
 /Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto/obj/Debug/net9.0/FetchDataBlazorAuto.genruntimeconfig.cache
 /Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto/obj/Debug/net9.0/ref/FetchDataBlazorAuto.dll
+/Users/alejandrobarranco/Documents/BlazorCsharpTrain/BlazorRestsharp/FetchDataBlazorAuto/FetchDataBlazorAuto/FetchDataBlazorAuto/bin/Debug/net9.0/RestSharp.dll
